@@ -1,0 +1,29 @@
+.contact tr{
+    height: 7rem;
+}
+.contact th{
+    width: 150px;
+    text-align: right;
+    margin-right: 10px;
+}
+.content .text{
+    width: 480px;
+    margin-left: 10px;
+}
+.content input{
+    margin-left: 10px;
+}
+.content .sub{
+    font-size: 3rem;
+    color: #fff;
+    background-color: #008B8B;
+    padding: 10px;
+    float: center;
+    display: table-cell;
+}
+.content p{
+    text-align: center;
+}
+.content p:hover{
+    opacity: 0.6;
+}
